@@ -4,7 +4,7 @@ Write a C program to implement a Queue using Array and linked List implementatio
 Enqueue 
 Dequeue
 Display the elements in a Queue
-
+ 
   Algorithm:
    CODE:-
 //Queue linked list
