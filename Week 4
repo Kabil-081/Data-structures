@@ -9,7 +9,7 @@ Display the elements in a stack
 Algorithm:
 Code:
 
-Array Implementation:
+Array Implementation: 
 #include <stdio.h>
 #include <stdlib.h>
 
