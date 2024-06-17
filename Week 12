@@ -5,7 +5,7 @@ Algorithm:
 CODE:-
 // C Program to implement Topological Sorting 
 #include <stdbool.h> 
-#include <stdio.h> 
+#include <stdio.h>  
 #include <stdlib.h> 
 
 // Structure to represent a stack 
