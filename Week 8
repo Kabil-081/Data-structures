@@ -6,7 +6,7 @@ Postorder Traversal
   Algorithm:
    CODE:-
    #include <stdio.h>
-   #include <stdlib.h>
+   #include <stdlib.h> 
 struct Tree
 { int ele;
   struct Tree *left;
