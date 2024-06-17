@@ -3,7 +3,7 @@ Write a C program to evaluate Arithmetic expression using stack.
 Algorithm:
 Code:
 
-#include <ctype.h>
+#include <ctype.h> 
 
 #define MAX_SIZE 100
 
